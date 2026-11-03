@@ -509,7 +509,7 @@ window.PAGINAS = {
   "bloques": [
    {
     "nombre": "Carla Molina",
-    "titular": "marques de prop",
+    "titular": "apropar les marques",
     "rol": "Direcció creativa · Estratègia digital",
     "entradilla": "Sis anys apropant marques: retail, salut, wellness i tercer sector.\nVull construir la mirada creativa d'una marca.\nDe la idea al rodatge.",
     "boton": "veure casos",

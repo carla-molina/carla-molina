@@ -5,8 +5,8 @@
 window.CONFIG = {
   linkedin: "https://www.linkedin.com/in/carlamolinanoriega",
   cv: {
-    es: "cv/Carla_Molina_CV.pdf",
-    ca: "cv/Carla_Molina_CV.pdf",
-    en: "cv/Carla_Molina_CV.pdf"
+    es: "cv/Carla_Molina_CV_ES.pdf",
+    ca: "cv/Carla_Molina_CV_CA.pdf",
+    en: "cv/Carla_Molina_CV_EN.pdf"
   }
 };
